@@ -1,4 +1,4 @@
-baseurl = "https://blog.himajin418.net"
+baseurl = "https://okazaki418.github.io/tech_blog"
 languageCode = "ja-jp"
 title = "サーバとかネットワークとかの備忘録"
 theme = "m10c"
