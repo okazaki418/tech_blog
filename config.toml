@@ -9,6 +9,11 @@ theme = "m10c"
     name = "Home"
     url = "/"
 
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags"
+
 [params]
   author = "okazaki"
   description = "大学院生の勉強日記"
