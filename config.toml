@@ -2,6 +2,19 @@ baseurl = "https://okazaki418.github.io/tech_blog"
 languageCode = "ja-jp"
 title = "サーバとかネットワークとかの備忘録"
 theme = "m10c"
-[Params]
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+
+[params]
   author = "okazaki"
-  description = "某大学の修士1年。就活で公開するために某所からブログを移動。"
+  description = "大学院生の勉強日記"
+  menu_item_separator = " - "
+
+  [[params.social]]
+    icon = "github"
+    name = "Github"
+    url = "https://github.com/okazaki418"
