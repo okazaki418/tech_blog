@@ -1,0 +1,7 @@
+baseurl = "https://blog.himajin418.net"
+languageCode = "ja-jp"
+title = "サーバとかネットワークとかの備忘録"
+theme = "m10c"
+[Params]
+  author = "okazaki"
+  description = "某大学の修士1年。就活で公開するために某所からブログを移動。"
