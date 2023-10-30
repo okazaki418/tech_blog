@@ -1,6 +1,7 @@
 +++
 title = "GitHub Pagesでの管理"
 date = 2023-10-30T16:07:02Z
+tags = ["Hugo", "GitHub"]
 draft = false
 +++
 
