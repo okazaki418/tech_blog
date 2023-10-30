@@ -1,6 +1,7 @@
 +++
 title = "Arch Linuxが更新できない"
 date = 2023-10-31T02:23:23+09:00
+tags = ["ArchLinux", "Proxmox"]
 draft = false
 +++
 
