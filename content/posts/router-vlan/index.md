@@ -1,6 +1,7 @@
 +++
 title = "業務用ルータのVLAN"
 date = 2023-10-31T14:54:44+09:00
+tags = ["IX", "RTX", "VLAN"]
 draft = false
 +++
 
