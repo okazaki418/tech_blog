@@ -1,7 +1,7 @@
 +++
 title = "Proxmox上のLXC上でのDocker"
 date = 2023-11-02T06:29:23+09:00
-tags = ["docker", "lxc", "proxmox"]
+tags = ["Docker", "LXC", "Proxmox"]
 draft = false
 +++
 
